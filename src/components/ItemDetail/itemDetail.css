@@ -1,0 +1,56 @@
+
+.loader-box{
+  margin-left: 50%;
+  margin-top: 5%;
+  }
+    
+  .box-container-detail{
+    margin:3% ;
+    
+    background-color: rgba(179, 179, 179, 0.324);
+  }
+  .titulo-detail{
+    margin-top: 1.5%;
+    margin-bottom: 0.5%;
+  }
+  .img-detail{
+    width: 17rem;
+    margin-left:5% ;
+  }
+  .div-img-detail{
+    align-items: center;
+  }
+  .div-flex{
+    display: flex;
+    flex-wrap: wrap;
+  }
+  .marca-detail{
+    width: 30%;
+    margin-right: 5%;
+  }
+  .info-detail{
+   
+   margin-top: 5%;
+    margin-bottom: 35%;
+  }
+  .precio-detail{
+    width: 65%;
+  }
+  .precio-box{
+    size: 2rem;
+    margin: 5%;
+  }
+  .div-flex-madre{
+    display: flex;
+    flex-wrap: wrap;
+  }
+  .caja-img-flex{
+    width: 20%;
+  }
+  .contido-lateral-flex{
+    width: 60%;
+    margin-left: 20%
+  }
+  .info-detail{
+    margin-top: 10%;
+  }

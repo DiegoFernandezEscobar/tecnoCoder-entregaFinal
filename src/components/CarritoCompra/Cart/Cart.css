@@ -1,0 +1,31 @@
+.contendor-padre-cart{
+    background-color: azure;
+    width: 100%;
+}
+.contendor-madre-cart{
+    
+    width: 50%;
+    margin-left: 33%;
+    display: flex;
+    flex-wrap: nowrap;
+}
+.img-producto-cart{
+    width: 2rem;
+    height: 2rem;
+    margin: 5%;
+}
+
+.h1-nombre-prod-cart{
+    color: black;
+}
+.btn-delete-cart{
+    margin-top: 5%;
+}
+.h1-carrito{
+    margin-left: 5%;
+    padding-top: 10px;
+}
+.espacio{
+  background-color: white;
+    width: 100%;
+}

@@ -1,0 +1,50 @@
+.contenedor-padre-itemList{
+    width: 100%;
+    
+}
+.contenedor-Map{
+    align-items: center;
+    display: flex;
+    flex-wrap: wrap;
+    background-color: white;
+    border: none;
+}
+
+.tarjeta-Individual{
+    /* margin-top: 10%;
+    
+    margin-left: 10%; */
+    /* height: 10rem;
+    width: 9.3rem;
+    margin: 5%;
+    padding: 1%;
+    background-color: azure; */
+    margin: 2.5%;
+    height: 10rem;
+}
+.contendor-card{
+   
+    width: 9.3rem;
+    margin: 5%;
+    padding: 1%;
+  background-color: azure;
+}
+.imgListProduct{
+    height: 9rem;
+    margin: 1rem;
+    width: 90%;
+}
+
+.titulo-card{
+  text-align: center;
+  font-size: 18px;
+  font-family: 'Courier New', Courier, monospace;
+  font-weight: 300;
+  margin:5px
+}
+
+.loader-box{
+margin-left: 50%;
+margin-top: 5%;
+}
+  

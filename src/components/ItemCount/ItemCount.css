@@ -1,0 +1,14 @@
+.div-item-count{
+    display: flex;
+    flex-direction: row;
+}
+.item-count{
+    display: flex;
+    flex-direction: row;
+}
+.divMadre-item-count{
+    display: flex  
+}
+.number-item-count{
+    width: 2rem;
+}
